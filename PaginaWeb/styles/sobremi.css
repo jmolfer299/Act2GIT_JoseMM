@@ -1,8 +1,8 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
+
 body {
     background-color: aliceblue;
     font-family: 'Roboto', sans-serif;
@@ -13,7 +13,7 @@ h1 {
     color: green;
 }
 
-p {
+#Subtitulo {
     font-size: 15px;
 }
 
@@ -30,25 +30,38 @@ h2 {
     padding: 10px;
 }
 
-footer
-{
+footer {
     background-color: black;
     display: flex;
     height: 10vh;
 }
 
-h4
-{
+h4 {
     font-size: 20px;
     color: aliceblue;
     margin: auto;
 }
-main
-{
+
+main {
     height: 72vh;
+    display: flex;
 }
-img
-{
-    height: 30vh;
-    width: 30vw;
+
+img {
+    height: 65vh;
+    width: 50vh;
+}
+
+h5 {
+    font-size: 25px;
+    color: darkgreen;
+}
+
+#Fecha {
+    font-size: 10px;
+    color: green;
+}
+
+article {
+    font-size: 15px;
 }
