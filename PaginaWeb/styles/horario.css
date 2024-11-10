@@ -44,24 +44,22 @@ h4
     color: aliceblue;
     margin: auto;
 }
-main
-{
-    height: 73vh;
-}
+
 td,
 th,
 tr {
-    padding: 10px;
+    padding: 0px;
     /*Añade un espacio en las celdas*/
 }
-
+main
+{
+    height: 70.6vh;
+}
 table {
     margin: auto;
     /* Margen automático*/
-    width: 60%;
-    /* La tabla ocupa el 60% del ancho de la página */
-    height: 60%;
-    /* La tabla ocupa el 60% de la altura de la página */
+    width: 50vh;
+    height: 50vh;
     text-align: center;
     /* Alinea el contenido de las celdas al centro */
     margin-bottom: 10px;
