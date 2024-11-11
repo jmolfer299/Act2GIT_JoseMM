@@ -51,17 +51,15 @@ main
 td,
 th,
 tr {
-    padding: 10px;
+    padding: 0px;
     /*Añade un espacio en las celdas*/
 }
 
 table {
     margin: auto;
     /* Margen automático*/
-    width: 60%;
-    /* La tabla ocupa el 60% del ancho de la página */
-    height: 60%;
-    /* La tabla ocupa el 60% de la altura de la página */
+    width: 40vw;
+    height: 40vh;
     text-align: center;
     /* Alinea el contenido de las celdas al centro */
     margin-bottom: 10px;
@@ -157,4 +155,8 @@ table {
 .hora {
     border: 5px #87d973 solid;
     background-color: #87d973;
+}
+main
+{
+    height: 70.5vh;
 }
