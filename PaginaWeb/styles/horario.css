@@ -58,8 +58,13 @@ main
 table {
     margin: auto;
     /* Margen automático*/
+<<<<<<< HEAD
+    width: 40vw;
+    height: 40vh;
+=======
     width: 50vh;
     height: 50vh;
+>>>>>>> 6482c7ca6843d464f2e80b7cee7cf7c7c7bb1aa0
     text-align: center;
     /* Alinea el contenido de las celdas al centro */
     margin-bottom: 10px;
@@ -155,4 +160,8 @@ table {
 .hora {
     border: 5px #87d973 solid;
     background-color: #87d973;
+}
+main
+{
+    height: 70.5vh;
 }
